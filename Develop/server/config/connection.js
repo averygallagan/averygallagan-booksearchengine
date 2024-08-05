@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Temporarily hardcoding the URI for testing
-const dbURI = 'mongodb+srv://avery:Caveman3@cluster0.xiexsec.mongodb.net/googlebooks?retryWrites=true&w=majority';
+const dbURI = 'mongodb+srv://avery:caveman3@cluster0.xiexsec.mongodb.net/googlebooks?retryWrites=true&w=majority';
 
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
