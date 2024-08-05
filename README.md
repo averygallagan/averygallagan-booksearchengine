@@ -5,6 +5,8 @@ This week we were tasked with taking an already functioning application and upda
 
 To start this app, a user must do an npm i and then an npm run develop in the root directory. 
 
+I have tried everything imaginable to get the render deployment working but it just sits on Deploying: for an infinite amount of time. 
+
 Github Repo: https://github.com/averygallagan/averygallagan-booksearchengine
 
 Deployed site: https://averygallagan-booksearchengine.onrender.com
